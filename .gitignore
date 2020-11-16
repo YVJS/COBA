@@ -1,0 +1,14 @@
+/src/Main.java
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.mtj.tmp/
+
+.idea
+*.iml
